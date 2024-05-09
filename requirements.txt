@@ -1,0 +1,7 @@
+Gunicorn
+Flask
+pytube
+pydub
+beautifulsoup4
+requests
+yt-dlp
